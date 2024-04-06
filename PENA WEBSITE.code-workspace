@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../blog"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pena"
+		}
+	],
+	"settings": {}
+}

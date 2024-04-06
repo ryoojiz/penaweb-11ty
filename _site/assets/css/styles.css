@@ -1,0 +1,91 @@
+.scrolled {
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  background-color: rgba(0,0,0,0.4)!important;
+  -webkit-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+  -moz-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+}
+
+.navbar {
+  -webkit-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1)!important;
+  -moz-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1)!important;
+  transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1)!important;
+}
+
+.mcbtn {
+  background-color: white;
+  color: var(--bs-primary);
+  -webkit-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+  -moz-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
+}
+
+.bubblesdark {
+  background-color: #0d0d0d;
+}
+
+.hrstyle {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(255,255,255), rgba(255, 255, 255, 0));
+}
+
+.posts {
+  width: 100%;
+  /*height: 2px;*/
+  box-shadow: inset 0 0 0 2px rgba(255,255,255,0.1);
+  overflow: hidden;
+}
+
+.postsContainer {
+  width: 85%;
+  border-radius: 1rem;
+  overflow: hidden;
+  grid-template-columns: 50% 50%;
+}
+
+.postsContent {
+  padding-bottom: 1rem;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(255,255,255,0) 100%);
+  background-size: 500% 500%;
+  background-position: 0% 0%;
+  transition: background-size 0.3s;
+}
+
+.postsContent:hover {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(255,255,255,0) 100% 100%);
+  background-size: 100% 100%;
+  background-position: 0% 0%;
+  display: block;
+}
+
+.postsBtn {
+  display: block!important;
+}
+
+.postsList {
+  border-radius: 0.5rem;
+  background: var(--bs-primary);
+  width: 85%;
+  min-height: 5%;
+  max-height: 15%;
+  margin-bottom: 1rem;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.2);
+}
+
+[data-bs-theme=dark] .backgrounde {
+  background: url("../../assets/img/BatikDark.png"), var(--bs-body-bg);
+  background-size: 200px, auto;
+}
+
+.backgrounde {
+  background: url("../../assets/img/BatikLight.png"), var(--bs-body-bg);
+  background-size: 200px, auto;
+}
+
