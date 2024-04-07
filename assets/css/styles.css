@@ -1,12 +1,22 @@
 .scrolled {
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  background-color: rgba(0,0,0,0.4)!important;
+  background-color: rgba(0,0,0,0.1)!important;
   -webkit-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
   -moz-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
   transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1);
 }
-
+table{
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+table, th, td{
+  padding: 5px;
+}
+th {
+  background-color: var(--bs-primary);
+  color: white;
+}
+tr:nth-child(even) {background-color: #00000027;}
 .navbar {
   -webkit-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1)!important;
   -moz-transition: all 0.2s cubic-bezier(0, 0.55, 0.45, 1)!important;
