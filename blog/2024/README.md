@@ -1,7 +1,7 @@
 ---
 title: skibidi dob dob dob yes yes
 layout: page.njk
-image:"https://i.ytimg.com/vi/WePNs-G7puA/maxresdefault.jpg"
+image: "https://i.ytimg.com/vi/WePNs-G7puA/maxresdefault.jpg"
 ---
 skibidobdob yes yes
 
