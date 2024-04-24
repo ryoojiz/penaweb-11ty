@@ -1,9 +1,9 @@
 ---
-title: vier botak
+title: skibidi dob dob dob yes yes
 layout: page.njk
-image: "https://raw.githubusercontent.com/ryoojiz/penaweb-11ty/main/assets/img/Photo%20on%2024-04-24%20at%2013.17%20%232.jpg"
+image:"https://i.ytimg.com/vi/WePNs-G7puA/maxresdefault.jpg"
 ---
-LMAO
+skibidobdob yes yes
 
 
 
