@@ -1,9 +1,9 @@
 ---
-title: My Rad Markdown Blog Post
+title: sachi so bad
 layout: page.njk
 image: "https://s3.ap-southeast-1.amazonaws.com/ryjscr/Screenshots/2024/04/Content_Warning_KUnyGJ0wiv.jpg"
 ---
-goblok
+kontol fakyu bitch
 
 
 
