@@ -1,9 +1,9 @@
 ---
-title: sachi so bad
+title: vier botak
 layout: page.njk
-image: "https://s3.ap-southeast-1.amazonaws.com/ryjscr/Screenshots/2024/04/Content_Warning_KUnyGJ0wiv.jpg"
+image: "https://raw.githubusercontent.com/ryoojiz/penaweb-11ty/main/assets/img/Photo%20on%2024-04-24%20at%2013.17%20%232.jpg"
 ---
-kontol fakyu bitch
+LMAO
 
 
 
