@@ -1,6 +1,6 @@
 document.addEventListener( 'DOMContentLoaded', function() {
     var splide = new Splide( '.splide',{
-        height:'2760vh',
+        height:'100vh',
         type: 'loop',
         autoplay: 'pause',
     } );
