@@ -3,7 +3,7 @@ title: skibidi toilet dob dob yes yes
 layout: page.njk
 image: "https://pena.bss.design/assets/img/WhatsApp%20Image%202023-10-18%20at%2017.38.17_e31920ff.jpg"
 ---
-lmao gaming xoxo kill yourself
+skibidi dob yes eys
 
 <div>
     <p style="font-family: 'Space Grotesk', sans-serif;color: var(--bs-white);margin-bottom: 0px;font-size: 1rem;"><strong><span style="color: var(--bs-white);">Tentang Author</span></strong></p>
